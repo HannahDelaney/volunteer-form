@@ -16,7 +16,11 @@ input,
 textarea,
 input[type="checkbox"] + label::before,
 input[type="radio"] + label::before {
-  border: 3px solid #6e8c62;
+  border: 2px solid #6e8c62;
+}
+
+span {
+  color: #70ad55;
 }
 
 hr {
