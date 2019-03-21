@@ -24,10 +24,10 @@ span {
 }
 
 hr {
-  border-top: 2px solid #70ad55;
+  border-top: 1px solid #70ad55;
 }
 
-button {
+.btn {
   background-color: #6e8c62;
   border: none;
 }
